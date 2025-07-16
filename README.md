@@ -28,4 +28,4 @@ That's it 😊
 
 ## Credits
 
-Assets by [ansimuz](https://opengameart.org/content/tiny-rpg-forest)
+Assets by [ansimuz](https://opengameart.org/content/tiny-rpg-forest) and built by JOELETHUP
